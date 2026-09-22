@@ -37,15 +37,13 @@ const movies = [
     description: "Aziz Nesin'in ünlü eserinden uyarlanan Zübük, çıkarları için her yolu mubah sayan, sözünde durmayan ve halkı kandırarak yükselen çıkarcı bir siyasetçi olan İbrahim Zübükzade'nin (İbraam) komik ama düşündürücü hikayesini anlatır. Kendi menfaati için herkesi aldatan bu karakter, siyasette hızla tırmanırken toplumun zaaflarını gözler önüne serer."
 },
       {
-        id: 5,
-        title: "kaşmir baskını ",
-        genre: "Aksiyon",
-        year: "2000",
-        rating: "8.0",
-        image: "https://turkcealtyazi.org/film/200/0248185.jpg",
-        trailer: "https://www.google.com/goto?url=CAESYwHrOzAVf4FdFv1BSAAEmgL1UmXWC93WAur8sh1tjMTXe-gE14bsTS71uQS0fNpWyxXKJnyJJHhXy6dU9_-MFUR43miXAI90MhT0735iwxWoNNHYfrH0sKT42mvhfbTe7F0bGA",
-        watch_url: "https://dn711303.ca.archive.org/0/items/mission-kashmir-2000-dv-drip-charme-leon-silver-rg/Mission%20Kashmir%202000%20DvDRip%20CharmeLeon%20Silver%20RG.mp4", // İşte burası!
-        desc: "Film açıklaması."
+         id: 3,
+        title: "kaşmir baskını",
+        category: "Aksiyon, Suç",
+        rating: "9.0",
+        poster: "https://turkcealtyazi.org/film/200/0248185.jpg",
+        iframeUrl: "https://dn711303.ca.archive.org/0/items/mission-kashmir-2000-dv-drip-charme-leon-silver-rg/Mission%20Kashmir%202000%20DvDRip%20CharmeLeon%20Silver%20RG.mp4",
+        description: "Yıllardır kanayan bir yara olan Kashmir bölgesinde Müslüman polis teşkilatında çalışan Sanjay, peşine düştüğü azılı bir teröristle savaşırken kazara, gene Müslüman olan bir ailenin, Altaaf adlı bir bebek hariç, tümünün ölmesine neden olur.Kısa bir süre önce kendi bebeğini de kaybetmiş olan Sanjay, karısının ısrarları üzerine bu bebeği evlatlık edinir. Ailesini öldüren maskeli kişiyi kabuslarında gören Altaaf, o maskeli kişinin kendisini evlatlık edinen Sanjay olduğunu öğrenince, intikam yemini ederek oradan kaçar.Yıllar sonra tam bir savaş makinesi haline gelmiş acımasız bir savaşçı olarak geri dönen Altaaf, nasıl bir intikam alacağını planlamaya başlar.
     },
     {
         id: 5, // Bir önceki filmin ID'sinden bir sonraki sayı olmalı
