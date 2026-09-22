@@ -29,12 +29,12 @@ const movies = [
     },
 {
     id: 4,
-    title: "Yeni Filmin Adı",
-    category: "Türler",
+    title: "zübük",
+    category: "komedi",
     rating: "8.5",
-    poster: "Afiş Resim Linki",
-    iframeUrl: "Film İframe / Player Linki",
-    description: "Film Açıklaması."
+    poster: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG1-q8U_4uprmganbYZKAvaYyp-ToHZdv1dWA2ciMItIoxGRFZywH2vc1k3Q_yQFwkh1F5h8VLCYlqlIMsK2FCTp5CWplLQ6H7Cx4OZ6QZDCrMV6ir08qd1RqIt1s8ghFaEd7ts8eHj4zIbwsmn6caheWoUAfDElwvMTtb8TNWmnbnmQqfnRlyjdNYq6Q/s1610/z%C3%BCb%C3%BCk%20poster.jpg",
+    iframeUrl: "https://dn790001.ca.archive.org/0/items/zubuk_1980/Z%C3%BCb%C3%BCk.mp4",
+    description: "Aziz Nesin'in ünlü eserinden uyarlanan Zübük, çıkarları için her yolu mubah sayan, sözünde durmayan ve halkı kandırarak yükselen çıkarcı bir siyasetçi olan İbrahim Zübükzade'nin (İbraam) komik ama düşündürücü hikayesini anlatır. Kendi menfaati için herkesi aldatan bu karakter, siyasette hızla tırmanırken toplumun zaaflarını gözler önüne serer."
 }
 
 ];
