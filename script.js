@@ -37,7 +37,7 @@ const movies = [
     description: "Aziz Nesin'in ünlü eserinden uyarlanan Zübük, çıkarları için her yolu mubah sayan, sözünde durmayan ve halkı kandırarak yükselen çıkarcı bir siyasetçi olan İbrahim Zübükzade'nin (İbraam) komik ama düşündürücü hikayesini anlatır. Kendi menfaati için herkesi aldatan bu karakter, siyasette hızla tırmanırken toplumun zaaflarını gözler önüne serer."
 },
       {
-         id: 3,
+         id: 5,
         title: "kaşmir baskını",
         category: "Aksiyon, Suç",
         rating: "9.0",
@@ -46,7 +46,7 @@ const movies = [
         description: "Yıllardır kanayan bir yara olan Kashmir bölgesinde Müslüman polis teşkilatında çalışan Sanjay, peşine düştüğü azılı bir teröristle savaşırken kazara, gene Müslüman olan bir ailenin, Altaaf adlı bir bebek hariç, tümünün ölmesine neden olur.Kısa bir süre önce kendi bebeğini de kaybetmiş olan Sanjay, karısının ısrarları üzerine bu bebeği evlatlık edinir. Ailesini öldüren maskeli kişiyi kabuslarında gören Altaaf, o maskeli kişinin kendisini evlatlık edinen Sanjay olduğunu öğrenince, intikam yemini ederek oradan kaçar.Yıllar sonra tam bir savaş makinesi haline gelmiş acımasız bir savaşçı olarak geri dönen Altaaf, nasıl bir intikam alacağını planlamaya başlar.
     },
     {
-        id: 5, // Bir önceki filmin ID'sinden bir sonraki sayı olmalı
+        id: 6, // Bir önceki filmin ID'sinden bir sonraki sayı olmalı
         title: "Dune: Çöl Gezegeni", // Filmin adı
         category: "Bilim Kurgu, Macera", // Kategoriler (Aralarında virgül olmalı)
         rating: "8.0", // IMDb veya site puanınız
