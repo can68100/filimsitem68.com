@@ -36,8 +36,15 @@ const movies = [
     iframeUrl: "https://dn790001.ca.archive.org/0/items/zubuk_1980/Z%C3%BCb%C3%BCk.mp4",
     description: "Aziz Nesin'in ünlü eserinden uyarlanan Zübük, çıkarları için her yolu mubah sayan, sözünde durmayan ve halkı kandırarak yükselen çıkarcı bir siyasetçi olan İbrahim Zübükzade'nin (İbraam) komik ama düşündürücü hikayesini anlatır. Kendi menfaati için herkesi aldatan bu karakter, siyasette hızla tırmanırken toplumun zaaflarını gözler önüne serer."
 },
-      
-  
+   {
+    id: 5,
+    title: "kaşmir baskını 2000",
+    category: "komedi",
+    rating: "8.5",
+    poster: "https://turkcealtyazi.org/film/200/0248185.jpg",
+    iframeUrl: "https://dn790001.ca.archive.org/0/items/zubuk_1980/Z%C3%BCb%C3%BCk.mp4",
+    description: "Yıllardır kanayan bir yara olan Kashmir bölgesinde Müslüman polis teşkilatında çalışan Sanjay, peşine düştüğü azılı bir teröristle savaşırken kazara, gene Müslüman olan bir ailenin, Altaaf adlı bir bebek hariç, tümünün ölmesine neden olur.Kısa bir süre önce kendi bebeğini de kaybetmiş olan Sanjay, karısının ısrarları üzerine bu bebeği evlatlık edinir. Ailesini öldüren maskeli kişiyi kabuslarında gören Altaaf, o maskeli kişinin kendisini evlatlık edinen Sanjay olduğunu öğrenince, intikam yemini ederek oradan kaçar.Yıllar sonra tam bir savaş makinesi haline gelmiş acımasız bir savaşçı olarak geri dönen Altaaf, nasıl bir intikam alacağını planlamaya başlar   
+  }
 ];
 
 
