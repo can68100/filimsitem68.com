@@ -47,6 +47,17 @@ const movies = [
         watch_url: "https://dn711303.ca.archive.org/0/items/mission-kashmir-2000-dv-drip-charme-leon-silver-rg/Mission%20Kashmir%202000%20DvDRip%20CharmeLeon%20Silver%20RG.mp4", // İşte burası!
         desc: "Film açıklaması."
     },
+    {
+        id: 5, // Bir önceki filmin ID'sinden bir sonraki sayı olmalı
+        title: "Dune: Çöl Gezegeni", // Filmin adı
+        category: "Bilim Kurgu, Macera", // Kategoriler (Aralarında virgül olmalı)
+        rating: "8.0", // IMDb veya site puanınız
+        poster: "https://unsplash.com", // Afiş resim linki
+        iframeUrl: "https://youtube.com", // İframe / Fragman Gömme Linki (Aşağıyı okuyun)
+        description: "Uzak bir gelecekte geçen Dune, ailesi galaksinin en tehlikeli gezegeninin yönetimini kabul eden asil bir ailenin hikayesini anlatıyor." // Özet
+    } // <-- Eğer peşine başka film ekleyecekseniz buraya virgül koyun
+];
+
 
 
 ];
