@@ -35,7 +35,19 @@ const movies = [
     poster: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG1-q8U_4uprmganbYZKAvaYyp-ToHZdv1dWA2ciMItIoxGRFZywH2vc1k3Q_yQFwkh1F5h8VLCYlqlIMsK2FCTp5CWplLQ6H7Cx4OZ6QZDCrMV6ir08qd1RqIt1s8ghFaEd7ts8eHj4zIbwsmn6caheWoUAfDElwvMTtb8TNWmnbnmQqfnRlyjdNYq6Q/s1610/z%C3%BCb%C3%BCk%20poster.jpg",
     iframeUrl: "https://dn790001.ca.archive.org/0/items/zubuk_1980/Z%C3%BCb%C3%BCk.mp4",
     description: "Aziz Nesin'in ünlü eserinden uyarlanan Zübük, çıkarları için her yolu mubah sayan, sözünde durmayan ve halkı kandırarak yükselen çıkarcı bir siyasetçi olan İbrahim Zübükzade'nin (İbraam) komik ama düşündürücü hikayesini anlatır. Kendi menfaati için herkesi aldatan bu karakter, siyasette hızla tırmanırken toplumun zaaflarını gözler önüne serer."
-}
+},
+      {
+        id: 5,
+        title: "kaşmir baskını ",
+        genre: "Aksiyon",
+        year: "2000",
+        rating: "8.0",
+        image: "https://turkcealtyazi.org/film/200/0248185.jpg",
+        trailer: "https://www.google.com/goto?url=CAESYwHrOzAVf4FdFv1BSAAEmgL1UmXWC93WAur8sh1tjMTXe-gE14bsTS71uQS0fNpWyxXKJnyJJHhXy6dU9_-MFUR43miXAI90MhT0735iwxWoNNHYfrH0sKT42mvhfbTe7F0bGA",
+        watch_url: "https://dn711303.ca.archive.org/0/items/mission-kashmir-2000-dv-drip-charme-leon-silver-rg/Mission%20Kashmir%202000%20DvDRip%20CharmeLeon%20Silver%20RG.mp4", // İşte burası!
+        desc: "Film açıklaması."
+    },
+
 
 ];
 
